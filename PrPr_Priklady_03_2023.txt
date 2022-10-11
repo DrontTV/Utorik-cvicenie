@@ -1,17 +1,19 @@
-/*----------------------------------------------------------*/
-/*     FUNKCIE   */
-
-/*
-int max(int a, int b);
-void oddelovac(); //procedura (bez parametra a navratovej hodnoty) - nepotrebuje return
-void vypis(int i); //procedura (s parametrom a bez navratovej hodnoty)
-int scitaj(void);
-
-int main()
-{
-    int x;
-    //Nemôžeme vypísat aké hodnoty sme scítali, iba ich sucet
-    x = scitaj();
+dsadSSSSSSSSSSSSSUTYghjujjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjkkkkkkkkkdsfnsdnfmsdbfsmd,bfds,fndsmfndsbjlihknsd,fmglf
+dsfsd]
+sd
+fadg
+d
+gsg
+sd
+gs
+gdsd
+g
+sdg
+sdg
+s
+gs
+gs
+d
     printf ("sucet je: %d \n", x);
     oddelovac();
     vypis(x);
